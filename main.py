@@ -8,13 +8,13 @@ JOBS = [
     'id': 1,
     'title': 'data analyst',
     'location': 'manila',
-    'salary': '$500'
+    'salary': '$5600'
   },
   {
     'id': 2,
     'title': 'engineer',
     'location': 'laguna',
-    'salary': '$400'
+    'salary': '$1400'
   },
 {
     'id': 3,
